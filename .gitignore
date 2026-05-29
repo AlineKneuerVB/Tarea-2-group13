@@ -1,0 +1,32 @@
+# Archivos del sistema
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Historial/editor
+.history/
+.vscode/
+.idea/
+
+# Archivos auxiliares de pruebas A/B
+times_after_A.csv
+times_after_A_1.csv
+times_after_B.csv
+times_after_B_1.csv
+
+indexes_option_a.sql
+indexes_option_b.sql
+matview_option_a.sql
+matview_option_b.sql
+
+# Archivos temporales de pruebas
+prueba.csv
+times_after_1.csv
+
+# Datos pesados
+data/data/
+
+# Datos pesados
+data/
