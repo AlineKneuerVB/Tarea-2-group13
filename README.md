@@ -1,5 +1,4 @@
-# Tarea 2 — Manejo de un Workload
-en un entorno realista
+# Tarea 2 — Manejo de un Workload en un entorno realista
 ## IIC2413 – Bases de Datos · Primer Semestre 2026
 
 ---
